@@ -20,7 +20,7 @@ Apresentado por: Adriana da DIO | Caroline Tenorio e Luiz Gustavo Verri Zacheu d
  ## Para realização dessa semana sem PC foi utilizado
 
 
-# Ferramentas utilizadas
+# Ferramentas utilizadas pelo Celular
 
   - Celular Redmi <br>
 
@@ -29,6 +29,15 @@ Apresentado por: Adriana da DIO | Caroline Tenorio e Luiz Gustavo Verri Zacheu d
    - App Teclado ESC Hacker's Keyboard <br>
 
    - App Draio.net <br>
+   
+   - Playgroud Kotlin - WEB: https://play.kotlinlang.org <br>
+   
+# Ferramentas para baixar no PC
+
+  - Intellij Communit ou Android Studio <br>
+  -
+
+
 
 ## Atividades concluidas
 

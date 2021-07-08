@@ -11,7 +11,7 @@
 ### Mentoria
 
 - 01 - Praticando Orientacão a Objetos com Kotlin.<br>
-[Mentoria 1](  "Imagem da mentoria 1")
+[Mentoria 1]( https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/Mentoria1.jpg "Imagem da mentoria 1")
 
 <br>
 Apresentado por: Adriana da DIO | Caroline Tenorio e Luiz Gustavo Verri Zacheu do Santander.

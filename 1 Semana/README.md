@@ -10,22 +10,25 @@
 
 ### Mentoria
 
--
--
--
+- 01 - Praticando Orientacão a Objetos com Kotlin.<br>
+[Mentoria 1](  "Imagem da mentoria 1")
 
- Para realização dessa semana foi utilizado
+<br>
+Apresentado por: Adriana da DIO | Caroline Tenorio e Luiz Gustavo Verri Zacheu do Santander.
 
 
+ Para realização dessa semana sem PC foi utilizado
+
+
+# Ferramentas utilizadas
 
   - Celular Redmi <br>
 
-    - App Spck Editor <br>
+   - App Spck Editor <br>
 
-    - App Teclado ESC Hacker's Keyboard <br>
+   - App Teclado ESC Hacker's Keyboard <br>
 
-# Ferramentas utilizadas
--
+   - App Draio.net <br>
 
 ## Atividades concluidas
 

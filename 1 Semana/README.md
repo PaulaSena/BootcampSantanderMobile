@@ -19,13 +19,12 @@
 <br>
 Apresentado por: Adriana da DIO | Caroline Tenorio e Luiz Gustavo Verri Zacheu do Santander.
 <br>
-![Mentoria 1]( https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/cd35f7fcff2203b3cc5604b5e1903c02edec7317/1%20Semana/Img/Practicando%20Orientaci%C3%B3n%20la%20Objetos%201.svg "Imagem do diagrama de classes da mentoria 1 ")<br>
+![Mentoria 1.1](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/b6ce028fa261bad2da09d9f2128fe7e54873bd39/1%20Semana/Img/Practicando%20Orientación%20la%20Objetos%201.svg "Imagem diagrama de classes da mentoria 1") <br>
 
 <a href="https://pl.kotl.in/EvLDLvG_D"> Meu primeiro Olá Mundo em KOTLIN</a> <br>
+![Mentoria 1.2]( https://github.com/PaulaSena/BootcampSantanderMobile/blob/main/1%20Semana/Img/OlaMundoKotlin.gif?raw=true "Imagem do site Playgroud Kotlin")<br>
 
-![Mentoria 1.1]( https://github.com/PaulaSena/BootcampSantanderMobile/blob/main/1%20Semana/Img/OlaMundoKotlin.gif?raw=true "Imagem do site Playgroud Kotlin")<br>
-
-Obs:Mentoria - Criei o Diagrama de classe utilizado na mentoria com o APP Draio para facilitar meu entendimento na criacao das classes em Kotlin.
+Obs:Mentoria - Criei o Diagrama de classe utilizado na mentoria com o APP Draio para facilitar meu entendimento na criacao das classes em Kotlin...
 
 ... Em desenvolvimento...
 

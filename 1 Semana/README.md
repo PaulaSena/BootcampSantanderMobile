@@ -32,7 +32,12 @@ Apresentado por: Adriana da DIO | Caroline Tenorio e Luiz Gustavo Verri Zacheu d
 
 ## Atividades concluidas
 
-<a href="#"> Atividade 1</a><br>
+<a href="#"> Atividade 1</a>
+
+![Mentoria 1]( https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/cd35f7fcff2203b3cc5604b5e1903c02edec7317/1%20Semana/Img/Practicando%20Orientaci%C3%B3n%20la%20Objetos%201.svg "Imagem do diagrama de classes da mentoria 1 ")
+
+Obs:Mentoria - Criei o Diagrama de classe utilizado na mentoria com o APP Draio para facilitar meu entendimento na criacao das classes em Kotlin.
+<br>
 <a href="#"> Atividade 2</a><br>
 <a href="#"> Atividade 3</a><br>
 

@@ -16,8 +16,8 @@
 <br>
 Apresentado por: Adriana da DIO | Caroline Tenorio e Luiz Gustavo Verri Zacheu do Santander.
 
-
- Para realização dessa semana sem PC foi utilizado
+<br>
+ ## Para realização dessa semana sem PC foi utilizado
 
 
 # Ferramentas utilizadas

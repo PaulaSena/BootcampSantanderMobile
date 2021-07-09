@@ -55,9 +55,18 @@ Obs:Mentoria - Criei o Diagrama de classe utilizado na mentoria com o APP Draio 
 
 
 
-## Atividades concluidas
+## Atividades
 
-<a href="#"> Atividade 1 </a><br>
+<a href="#"> Atividade 1 : Lógica calculo Média.</a>
+<br> 
+Calcular média aritmética das notas:<br>
+Nota 1=5<br>
+Nota 2=7<br>
+Nota 3=10<br>
+Nota 4=3<br>
+
+Solução: (5+7+10+3)/4
+
 <a href="#"> Atividade 2</a><br>
 <a href="#"> Atividade 3</a><br>
 

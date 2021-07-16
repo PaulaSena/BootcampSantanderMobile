@@ -67,9 +67,6 @@ Nota 4=3<br>
 
 Solução: (5+7+10+3)/4
 
-<a href="#"> Atividade 2</a><br>
-<a href="#"> Atividade 3</a><br>
-
 ** Resolução de atividade em KOTLIN.
 
 Conteúdo da aula Introdução ao Kotlin - Calculo de média.
@@ -82,6 +79,12 @@ Conteúdo da aula Introdução ao Kotlin - Calculo de média.
 
 ![Executando 1]( https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/Executando%20conteudo%20da%20aula%20-%20%20Calculo%20de%20m%C3%A9dia..PNG "Imagem Executando conteudo da aula -  Calculo de média. 1")<br>
 
+
+
+
 ... Em desenvolvimento...
 
 
+<a href="#"> Atividade 2</a><br>
+<a href="#"> Atividade 3</a><br>
+<a href="#"> Atividade 4</a><br>

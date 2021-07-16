@@ -70,6 +70,17 @@ Solução: (5+7+10+3)/4
 <a href="#"> Atividade 2</a><br>
 <a href="#"> Atividade 3</a><br>
 
+** Resolução de atividade em KOTLIN.
+
+Conteúdo da aula Introdução ao Kotlin - Calculo de média.
+
+- Declaração de variáveis.
+- Concatenação 
+- Uso de Operadores aritméticos.
+
+<a href="https://pl.kotl.in/yBfJCl_ae"> https://pl.kotl.in/yBfJCl_ae </a>
+
+![Executando 1]( https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/Executando conteudo da aula -  Calculo de média.jpg "Imagem Executando conteudo da aula -  Calculo de média. 1")
 
 ... Em desenvolvimento...
 

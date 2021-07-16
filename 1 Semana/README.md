@@ -78,9 +78,9 @@ Conteúdo da aula Introdução ao Kotlin - Calculo de média.
 - Concatenação 
 - Uso de Operadores aritméticos.
 
-<a href="https://pl.kotl.in/yBfJCl_ae"> https://pl.kotl.in/yBfJCl_ae </a>
+<a href="https://pl.kotl.in/yBfJCl_ae"> https://pl.kotl.in/yBfJCl_ae </a><br>
 
-![Executando 1]( https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/Executando conteudo da aula -  Calculo de média.jpg "Imagem Executando conteudo da aula -  Calculo de média. 1")
+![Executando 1]( https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/Executando%20conteudo%20da%20aula%20-%20%20Calculo%20de%20m%C3%A9dia..PNG "Imagem Executando conteudo da aula -  Calculo de média. 1")<br>
 
 ... Em desenvolvimento...
 

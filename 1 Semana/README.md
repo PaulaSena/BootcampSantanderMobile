@@ -53,11 +53,13 @@ Obs:Mentoria - Criei o Diagrama de classe utilizado na mentoria com o APP Draio 
   - Intellij Communit ou Android Studio <br>
  
 
+# Lógica de programação.
 
+## Atividades 
+ 
+ Atividade 1 
 
-## Atividades
-
-<a href="#"> Atividade 1 : Lógica calculo Média.</a>
+Atividade 1 : Lógica calculo Média.
 <br> 
 Calcular média aritmética das notas:<br>
 Nota 1=5<br>
@@ -66,6 +68,17 @@ Nota 3=10<br>
 Nota 4=3<br>
 
 Solução: (5+7+10+3)/4
+
+- Crie um algoritimo do seu dia em pseudocódigo.
+<a href="https://github.com/PaulaSena/BootcampSantanderMobile/blob/main/1%20Semana/Img/meu%20dia.txt"> Atividade 2</a><br>
+- Algoritimo do meu dia
+
+- Realizar o exercicio no canal do Code.Org
+
+Postar no insta: <a href="https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/Certif.jpg">Certificado Code.Org </a><br><br>
+@digitalinnovation.one
+@denilsonbonatti
+  
 
 ** Resolução de atividade em KOTLIN.
 
@@ -80,11 +93,14 @@ Conteúdo da aula Introdução ao Kotlin - Calculo de média.
 ![Executando 1]( https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/Executando%20conteudo%20da%20aula%20-%20%20Calculo%20de%20m%C3%A9dia..PNG "Imagem Executando conteudo da aula -  Calculo de média. 1")<br>
 
 
+Certificado de Conclusão do curso introdutorio Kotlin.
+<a href="https://www.linkedin.com/in/paulassena/">Certificado</a><br>
 
+#DESAFIO CRIAÇÃO DE CALCULADORA EM KOTLIN
 
 ... Em desenvolvimento...
 
 
-<a href="#"> Atividade 2</a><br>
 <a href="#"> Atividade 3</a><br>
 <a href="#"> Atividade 4</a><br>
+<a href="#"> Atividade 5</a><br>

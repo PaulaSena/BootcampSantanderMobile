@@ -79,6 +79,12 @@ Postar no insta: <a href="https://raw.githubusercontent.com/PaulaSena/BootcampSa
 @digitalinnovation.one
 @denilsonbonatti
   
+- Realizar um fluxograma que exiba total de notas e calculo de  média aritmética.<br>
+
+![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/img-fluxograma2.PNG)<br>
+
+![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/img-fluxograma2.2.PNG)
+
 
 ** Resolução de atividade em KOTLIN.
 

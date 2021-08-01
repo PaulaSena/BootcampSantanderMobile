@@ -85,6 +85,15 @@ Postar no insta: <a href="https://raw.githubusercontent.com/PaulaSena/BootcampSa
 
 ![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/img-fluxograma2.2.PNG)
 
+- Realizar um fluxograma que possa Armazenar as vendas de um vendedor e obter media de vendas.<br>
+
+Se media for ≥5000 O sistema devera apresentar "Parabens você recebeu um abono 10%", <br>
+
+Caso contrario deve exibir a msg:"Parabens você recebeu um abono 3%".
+
+![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/mediaVendasVendedor.PNG)
+![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/mediaVendasVendedor1.PNG)
+
 
 ** Resolução de atividade em KOTLIN.
 

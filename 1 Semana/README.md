@@ -80,25 +80,31 @@ Postar no insta: <a href="https://raw.githubusercontent.com/PaulaSena/BootcampSa
 @denilsonbonatti
   
 - Realizar um fluxograma que exiba total de notas e calculo de  média aritmética.<br>
-
+Resolução:
 ![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/img-fluxograma2.PNG)<br>
 
 ![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/img-fluxograma2.2.PNG)
 
 - Realizar um fluxograma que possa Armazenar as vendas de um vendedor e obter media de vendas.<br>
+-Se media for ≥5000 O sistema devera apresentar "Parabens você recebeu um abono 10%", <br>
+-Caso contrario deve exibir a msg:"Parabens você recebeu um abono 3%".<br><br>
 
-Se media for ≥5000 O sistema devera apresentar "Parabens você recebeu um abono 10%", <br>
-
-Caso contrario deve exibir a msg:"Parabens você recebeu um abono 3%".
-
+Resolução:
 ![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/mediaVendasVendedor.PNG)<br><br>
 
 ## Introdução ao Portugol Studio <br>
 
+- Realizar no Portugol um programa que armazene as vendas mensais um vendedor, obter o total de vendas e a media de vendas realizada nos meses de Janeiro a Abril. <br><br>
+Resolução:
 ![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/2021-08-10%2023-16-59.gif)
 
+- Realizar no Portugol um programa que exiba a tabuada do 9. <br>
+  * Neste exercicio também utilisei o Desvio de Condicional (CASO) e o Laço de Repetição (FACA).<br><br> 
+Resolução:
+![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/2021-08-11%2003-37-05%2000_00_00-00_00_30.gif)
 
-** Resolução de atividade em KOTLIN.
+
+## Resolução de atividade em KOTLIN.
 
 Conteúdo da aula Introdução ao Kotlin - Calculo de média.
 

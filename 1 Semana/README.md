@@ -91,8 +91,9 @@ Se media for ≥5000 O sistema devera apresentar "Parabens você recebeu um abon
 
 Caso contrario deve exibir a msg:"Parabens você recebeu um abono 3%".
 
-![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/mediaVendasVendedor.PNG)
-![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/mediaVendasVendedor1.PNG
+![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/mediaVendasVendedor.PNG)<br><br>
+
+##Introdução ao Portugol Studio<br>
 
 ![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/2021-08-10%2023-16-59.gif)
 
@@ -118,6 +119,6 @@ Certificado de Conclusão do curso introdutorio Kotlin.
 ... Em desenvolvimento...
 
 
-<a href="https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/2021-08-10%2023-16-59.gif"> Atividade 3</a><br>
+<a href="#"> Atividade 3</a><br>
 <a href="#"> Atividade 4</a><br>
 <a href="#"> Atividade 5</a><br>

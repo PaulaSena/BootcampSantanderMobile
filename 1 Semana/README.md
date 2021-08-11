@@ -93,7 +93,7 @@ Caso contrario deve exibir a msg:"Parabens você recebeu um abono 3%".
 
 ![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/mediaVendasVendedor.PNG)<br><br>
 
-##Introdução ao Portugol Studio<br>
+## Introdução ao Portugol Studio <br>
 
 ![image](https://raw.githubusercontent.com/PaulaSena/BootcampSantanderMobile/main/1%20Semana/Img/2021-08-10%2023-16-59.gif)
 

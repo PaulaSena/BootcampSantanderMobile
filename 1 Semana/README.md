@@ -26,7 +26,7 @@ Meu primeiro Olá Mundo em KOTLIN <br>
 
 ![Mentoria 1.2]( https://github.com/PaulaSena/BootcampSantanderMobile/blob/main/1%20Semana/Img/OlaMundoKotlin.gif?raw=true "Imagem do site Playgroud Kotlin")<br>
 
-Obs:Mentoria - Criei o Diagrama de classe utilizado na mentoria com o APP Draio para facilitar meu entendimento na criacao das classes em Kotlin...
+** Obs: Mentoria - Criei o Diagrama de classe utilizado na mentoria com o APP Draio para facilitar meu entendimento na criacao das classes em Kotlin...
 
 <br>
 
@@ -127,7 +127,7 @@ Ferramenta Utilizada:
 Certificado de Conclusão do curso introdutorio Kotlin.
 <a href="https://www.linkedin.com/in/paulassena/">Certificado</a><br>
 
-# DESAFIO CRIAÇÃO DE CALCULADORA EM KOTLIN | A desenvolver na Pasta 2 Semana...
+## DESAFIO CRIAÇÃO DE CALCULADORA EM KOTLIN | A desenvolver na Pasta 2 Semana...
 
 
 

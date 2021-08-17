@@ -26,7 +26,7 @@ Meu primeiro Olá Mundo em KOTLIN <br>
 
 ![Mentoria 1.2]( https://github.com/PaulaSena/BootcampSantanderMobile/blob/main/1%20Semana/Img/OlaMundoKotlin.gif?raw=true "Imagem do site Playgroud Kotlin")<br>
 
-Obs:Mentoria - Criei o Diagrama de classe utilizado na mentoria com o APP Draio para facilitar meu entendimento na criacao das classes em Kotlin...
+** Obs: Mentoria - Criei o Diagrama de classe utilizado na mentoria com o APP Draio para facilitar meu entendimento na criacao das classes em Kotlin...
 
 <br>
 

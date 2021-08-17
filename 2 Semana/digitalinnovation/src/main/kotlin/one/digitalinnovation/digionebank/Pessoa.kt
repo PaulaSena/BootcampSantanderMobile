@@ -3,6 +3,7 @@ package one.digitalinnovation.digionebank
 class Pessoa {
     var nome: String = "Ana Paula Sena"
     var cpf: String = "012.345.678.90"
+    private set // Esta función evita cambiar el valor cpf
 
 inner class Endereco{   // Clase interna
         var rua: String = "Rua tal"
@@ -17,4 +18,7 @@ fun main() {
 }
 
 // Commit Ctrl + K ...
-// En la clase interna es posible realizar una integración de uma API usando o Json creando un Objeto de Response (Dividido) parcial..
+
+/* En la clase interna es posible realizar una integración de uma
+ * API usando o Json creando un Objeto de Response (Dividido) parcial..
+ */

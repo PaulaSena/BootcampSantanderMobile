@@ -17,4 +17,4 @@ fun main() {
 }
 
 // Commit Ctrl + K ...
-// En la clase interna es posible realizar una integración de uma API usando o Json creando un Objeto de Response (Dividido) parcial.
+// En la clase interna es posible realizar una integración de uma API usando o Json creando un Objeto de Response (Dividido) parcial..

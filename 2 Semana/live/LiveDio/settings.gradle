@@ -1,0 +1,2 @@
+rootProject.name = "LiveDio"
+include ':app'

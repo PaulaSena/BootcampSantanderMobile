@@ -1,3 +1,5 @@
+/*  ELIMINADA LA CLASE TESTE PESSOA POIS LA CLASSE AHORA ES ABSTRATA
+
 package one.digitalinnovation.digionebank.testes
 
 import one.digitalinnovation.digionebank.Funcionario
@@ -17,5 +19,4 @@ fun main(){
     println(theo.cpf)
     println(theo.salario)
 }
-
-// Ctrl + k git
+*/

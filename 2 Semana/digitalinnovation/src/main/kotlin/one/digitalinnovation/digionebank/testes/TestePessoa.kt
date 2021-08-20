@@ -1,3 +1,5 @@
+/*  ELIMINADA LA CLASE TESTE PESSOA POIS LA CLASSE AHORA ES ABSTRATA
+
 package one.digitalinnovation.digionebank.testes
 
 import one.digitalinnovation.digionebank.Funcionario
@@ -10,6 +12,8 @@ import one.digitalinnovation.digionebank.Pessoa
         println(paulaSena.cpf)
 
     }
+*/
+
 //Variable que recibe la instancia de una persona
 
 //   println(paulaSena.pessoaInfo())

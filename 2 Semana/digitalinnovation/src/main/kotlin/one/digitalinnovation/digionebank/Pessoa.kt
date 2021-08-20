@@ -1,10 +1,12 @@
 package one.digitalinnovation.digionebank
 
-open class Pessoa(
-    open val nome: String,
-    open val cpf: String
+abstract class Pessoa(
+     open val nome: String,
+     open val cpf: String
 )
+// Transformando la clase Open Pessoa en Abstrata "la clase madre | hija" y regresando el tipo el tipo para val
 
+// Eliminada la propiedad OPEN de VAL
 
 // Agregado OPEN para heredar de otra clase
 

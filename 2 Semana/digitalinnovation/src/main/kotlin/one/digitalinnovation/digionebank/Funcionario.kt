@@ -9,4 +9,4 @@ class Funcionario (
 ) : Pessoa(nome, cpf) {
 }
 // Herencia
-// Agregado Override
+// Agregado OVERRIDE para heredar de la clase Persona

@@ -1,5 +1,6 @@
 package one.digitalinnovation.digionebank.testes
 
+import one.digitalinnovation.digionebank.Funcionario
 import one.digitalinnovation.digionebank.Pessoa
 
     fun main() {
@@ -7,6 +8,7 @@ import one.digitalinnovation.digionebank.Pessoa
 
         println(paulaSena.nome)
         println(paulaSena.cpf)
+
     }
 //Variable que recibe la instancia de una persona
 

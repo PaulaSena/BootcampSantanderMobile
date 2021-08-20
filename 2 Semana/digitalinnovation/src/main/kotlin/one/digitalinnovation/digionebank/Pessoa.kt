@@ -6,7 +6,7 @@ open class Pessoa(
 )
 
 
-// Agregado Open para herdar de outra classe
+// Agregado OPEN para heredar de otra clase
 
 
  /*       private set // Esta función evita cambiar el valor cpf

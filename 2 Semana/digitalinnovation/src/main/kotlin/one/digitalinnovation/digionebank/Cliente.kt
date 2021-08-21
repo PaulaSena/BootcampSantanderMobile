@@ -3,7 +3,7 @@ package one.digitalinnovation.digionebank
 class Cliente(
     nome: String,
     cpf: String,
-    val clienteTipo: String,
+    val clienteTipo: ClienteTipo,
     val senha:String
 ) : Pessoa(nome, cpf), Logavel {
 
@@ -12,9 +12,8 @@ class Cliente(
     override fun toString(): String = """
         Nome: $nome
         Cpf:  $cpf
-        Tipo: $clienteTipo
+        Tipo: ${clienteTipo.descricao}
     """.trimIndent()
-
 }
 
 

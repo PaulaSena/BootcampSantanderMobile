@@ -6,9 +6,10 @@ fun main() {
     val elisabete = Cliente(
         nome = "Elisabete Sena",
         cpf = "55478236",
-        clienteTipo = "PJ",
+        clienteTipo = ClienteTipo.PF,
         senha = "123456" )
     println(elisabete)
     TesteAutenticacao().autentica(elisabete)
 }
 
+//        clienteTipo = "PJ",

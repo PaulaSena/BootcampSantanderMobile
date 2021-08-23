@@ -34,5 +34,7 @@ Apresentado por: Adriana da DIO | Caroline Tenorio e Luiz Gustavo Verri Zacheu d
 
 ## Execução do conteudo da 1 mentoria.
  - Mentoria 1
+ -
+ notas:
 
 # Em desenvolvimento...

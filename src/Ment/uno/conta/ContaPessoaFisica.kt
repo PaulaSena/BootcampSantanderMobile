@@ -5,8 +5,11 @@ class ContaPessoaFisica (
 numero:Int,
 agencia:String
 ) {
+    private val _numeroConta = numero
+    private val _agencia = agencia
+
     init {
-        println("nun: $numero - agencia: $agencia")
+        println("_numeroConta: $numero - _agencia: $agencia")
     }
 }
 fun main() {
@@ -15,5 +18,6 @@ fun main() {
     var conta2 = ContaPessoaFisica(numero = 124,agencia = "002")
 
     var conta3 = ContaPessoaFisica(numero = 125,agencia = "001")
-//Run > Ejecutado con exito
+
+//Ejecutado con Encapsulamento.
 }

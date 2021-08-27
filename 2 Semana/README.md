@@ -17,12 +17,12 @@ Pendente : DESAFIO CRIAÇÃO DE CALCULADORA EM KOTLIN
 - Aplicando TDD e Padrões de Testes no Desenvolvimento de Aplicativos Android.
 
 
-1- # <a href="#"> 1° Atividade - Criação da Classe - Pessoa Digital Innovation One</a><br>
-2-
-3-
-4-
-5-
-6...
+1 - <a href="#"> 1° Atividade - Criação da Classe - Pessoa Digital Innovation One </a> <br>
+2 -
+3 -
+4 -
+5 -
+6 ...
 
 
 ### Mentorias
@@ -34,5 +34,7 @@ Apresentado por: Adriana da DIO | Caroline Tenorio e Luiz Gustavo Verri Zacheu d
 
 ## Execução do conteudo da 1 mentoria.
  - Mentoria 1
+ -
+ notas:
 
 # Em desenvolvimento...

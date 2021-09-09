@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="TesteList.kt | groupBy Agrupando o objeto por tipo de contratação" />
+    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="TesteList.kt | extraindo data class Funcionario.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteSet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Data Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -37,7 +41,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.TesteListKt">
+  <component name="RunManager" selected="Kotlin.TesteSetKt">
     <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteArrayStringKt" />
       <module name="mainModule" />
@@ -47,13 +51,6 @@
     </configuration>
     <configuration name="TesteDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteDoubleArrayKt" />
-      <module name="mainModule" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TesteIntArrayOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteIntArrayOfKt" />
       <module name="mainModule" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteSetKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteSetKt" />
         <item itemvalue="Kotlin.TesteListKt" />
         <item itemvalue="Kotlin.TesteOperacoesKt" />
         <item itemvalue="Kotlin.TesteDoubleArrayKt" />
         <item itemvalue="Kotlin.TesteArrayStringKt" />
-        <item itemvalue="Kotlin.TesteIntArrayOfKt" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631199855024</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="TesteList.kt | extraindo data class Funcionario.kt">
+      <created>1631200708995</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1631200708995</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +205,7 @@
     <MESSAGE value="TesteList.kt | Exemplo de lista Desenvolvimento com listOf&#10;forEach &#10;find &#10;data class | override fun toString(): String =&quot;&quot;&quot;" />
     <MESSAGE value="TesteList.kt | Organizando grupos com sortedBy &#10; funcionarios.sortedBy { it.salario } // Ordenando o objeto por salario do menor para o maior&#10;                       .forEach { println(it) } // finaliza todas as operações" />
     <MESSAGE value="TesteList.kt | groupBy Agrupando o objeto por tipo de contratação" />
-    <option name="LAST_COMMIT_MESSAGE" value="TesteList.kt | groupBy Agrupando o objeto por tipo de contratação" />
+    <MESSAGE value="TesteList.kt | extraindo data class Funcionario.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="TesteList.kt | extraindo data class Funcionario.kt" />
   </component>
 </project>

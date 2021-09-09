@@ -12,7 +12,6 @@ fun main() {
     funcionarios.add(pedro)
     funcionarios.forEach {  println(it)}
 
-
     println("====== REMOVE =====")
     funcionarios.remove(ana)
     funcionarios.forEach {  println(it)}

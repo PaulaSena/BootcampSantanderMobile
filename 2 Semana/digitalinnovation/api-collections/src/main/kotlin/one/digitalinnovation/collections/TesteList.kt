@@ -21,13 +21,3 @@ fun main() {
         .groupBy { it.tipoContratacao } // Agrupando o objeto por tipo de contratação
         .forEach { println(it) } // finaliza todas as operações
 }
-data class Funcionario(
-    val nome:String,
-    val salario:Double,
-    val tipoContratacao:String
-){
-    override fun toString(): String ="""
-        Nome: $nome
-        Salario: $salario
-    """.trimIndent()
-    }

@@ -3,13 +3,13 @@
 # DIO - Digital Inovation One <br><br>
 
 # Conteúdo <br>
-<a href="https://github.com/PaulaSena/BootcampSantanderMobile/tree/main/1%20Semana">1 Semana</a><br>
+<a href="https://github.com/PaulaSena/BootcampSantanderMobile/tree/main/1%20Semana">1 ETAPA</a><br>
 
 
-<a href="https://github.com/PaulaSena/BootcampSantanderMobile/tree/main/2%20Semana">2 Semana</a><br>
+<a href="https://github.com/PaulaSena/BootcampSantanderMobile/tree/main/2%20Semana">2 ETAPA</a><br>
 
 
-<a href="https://github.com/PaulaSena/BootcampSantanderMobile/tree/main/3%20Semana">3 Semana</a><br>
+<a href="https://github.com/PaulaSena/BootcampSantanderMobile/tree/main/3%20Semana">3 ETAPA</a><br>
 <br>
 
 # Ferramentas utilizadas até o momento<br>

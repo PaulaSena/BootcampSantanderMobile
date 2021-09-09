@@ -12,4 +12,12 @@ fun main() {
     repositorio.create(bia.nome, bia)
 
     println(repositorio.findById(bia.nome))
+
+    println("====== findAll- Todos os elementos gravados no mapa =========")
+    repositorio.findAll().forEach{println(it)}
+
+    println("====== remove - Remover um elemento do mapa =========")
+    repositorio.remove(ana.nome)
+    repositorio.findAll().forEach{println(it)}
+
 }

@@ -8,5 +8,9 @@ class Repositorio<T>{
          map[id] = value
     }
 
+    fun remove(id: String) = map.remove(id) // removera dados do mapa
+
     fun findById(id: String) = map [id]
+
+    fun findAll()=map.values // buscara todos os "T" todos os funcionarios
 }

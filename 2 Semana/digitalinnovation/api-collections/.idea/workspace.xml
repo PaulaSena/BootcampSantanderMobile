@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="TesteColecoesMutaveis.kt| Apos a inicialização é possivel realizar alterações nela.&#10;-ADD&#10;-REMOVE&#10;-SEToF">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/Repositorio.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteMutavekMap.kt" afterDir="false" />
+    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="Repositorio.kt TesteMutavekMap.kt| &#10;Simulador de banco de dados execultando teste Map">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteColecoesMutaveis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteColecoesMutaveis.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/Repositorio.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/Repositorio.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteMutavekMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteMutavekMap.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631225379622</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Repositorio.kt TesteMutavekMap.kt| &#10;Simulador de banco de dados execultando teste Map">
+      <created>1631228414498</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1631228414498</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,6 +238,7 @@
     <MESSAGE value="TesteSet.kt | union - gerando relatorio com todos os funcionarios.&#10;subtract - Subtraindo dos conjuntos.&#10;intersect - Busca resultado em comum nos conjuntos" />
     <MESSAGE value="TesteMap.kt | Desenvolvimento com mapOf Utilizando o Pair MapOf e forEach" />
     <MESSAGE value="TesteColecoesMutaveis.kt| Apos a inicialização é possivel realizar alterações nela.&#10;-ADD&#10;-REMOVE&#10;-SEToF" />
-    <option name="LAST_COMMIT_MESSAGE" value="TesteColecoesMutaveis.kt| Apos a inicialização é possivel realizar alterações nela.&#10;-ADD&#10;-REMOVE&#10;-SEToF" />
+    <MESSAGE value="Repositorio.kt TesteMutavekMap.kt| &#10;Simulador de banco de dados execultando teste Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="Repositorio.kt TesteMutavekMap.kt| &#10;Simulador de banco de dados execultando teste Map" />
   </component>
 </project>

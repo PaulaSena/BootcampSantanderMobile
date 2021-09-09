@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="TesteSet.kt | union - gerando relatorio com todos os funcionarios.&#10;subtract - Subtraindo dos conjuntos.&#10;intersect - Busca resultado em comum nos conjuntos">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteMap.kt" afterDir="false" />
+    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="TesteMap.kt | Desenvolvimento com mapOf Utilizando o Pair MapOf e forEach">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteColecoesMutaveis.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +41,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.TesteMapKt">
-    <configuration name="TesteDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteDoubleArrayKt" />
+  <component name="RunManager" selected="Kotlin.TesteColecoesMutaveisKt">
+    <configuration name="TesteColecoesMutaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteColecoesMutaveisKt" />
       <module name="mainModule" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteColecoesMutaveisKt" />
         <item itemvalue="Kotlin.TesteMapKt" />
         <item itemvalue="Kotlin.TesteSetKt" />
         <item itemvalue="Kotlin.TesteListKt" />
         <item itemvalue="Kotlin.TesteOperacoesKt" />
-        <item itemvalue="Kotlin.TesteDoubleArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631222434445</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="TesteMap.kt | Desenvolvimento com mapOf Utilizando o Pair MapOf e forEach">
+      <created>1631223643892</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1631223643892</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +221,7 @@
     <MESSAGE value="TesteList.kt | groupBy Agrupando o objeto por tipo de contratação" />
     <MESSAGE value="TesteList.kt | extraindo data class Funcionario.kt" />
     <MESSAGE value="TesteSet.kt | union - gerando relatorio com todos os funcionarios.&#10;subtract - Subtraindo dos conjuntos.&#10;intersect - Busca resultado em comum nos conjuntos" />
-    <option name="LAST_COMMIT_MESSAGE" value="TesteSet.kt | union - gerando relatorio com todos os funcionarios.&#10;subtract - Subtraindo dos conjuntos.&#10;intersect - Busca resultado em comum nos conjuntos" />
+    <MESSAGE value="TesteMap.kt | Desenvolvimento com mapOf Utilizando o Pair MapOf e forEach" />
+    <option name="LAST_COMMIT_MESSAGE" value="TesteMap.kt | Desenvolvimento com mapOf Utilizando o Pair MapOf e forEach" />
   </component>
 </project>

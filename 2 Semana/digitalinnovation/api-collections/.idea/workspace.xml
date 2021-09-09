@@ -4,20 +4,181 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="" />
+    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="TesteIntArray.kt -  // For index realiza a iteração sobre os indices do arrays busca o valor da posição especifica&#10;                        for(index in values.indices){">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/7.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/7.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/.idea/Android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/CRIANDO O PRIMEIRO PROJETO ANDROID STUDIO 171f59a051b84326a7c0fab095e8b7a9/Untitled 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/CRIANDO O PRIMEIRO PROJETO ANDROID STUDIO 171f59a051b84326a7c0fab095e8b7a9/Untitled 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/CRIANDO O PRIMEIRO PROJETO ANDROID STUDIO 171f59a051b84326a7c0fab095e8b7a9/Untitled 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/CRIANDO O PRIMEIRO PROJETO ANDROID STUDIO 171f59a051b84326a7c0fab095e8b7a9/Untitled 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/CRIANDO O PRIMEIRO PROJETO ANDROID STUDIO 171f59a051b84326a7c0fab095e8b7a9/Untitled 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/CRIANDO O PRIMEIRO PROJETO ANDROID STUDIO 171f59a051b84326a7c0fab095e8b7a9/Untitled 6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/CRIANDO O PRIMEIRO PROJETO ANDROID STUDIO 171f59a051b84326a7c0fab095e8b7a9/Untitled 7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/CRIANDO O PRIMEIRO PROJETO ANDROID STUDIO 171f59a051b84326a7c0fab095e8b7a9/Untitled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/androidTest/java/com/example/helloworld/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/java/com/example/helloworld/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/app/src/test/java/com/example/helloworld/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/HelloWorld/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/androidTest/java/com/example/helloworld/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/java/com/example/helloworld/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/app/src/test/java/com/example/helloworld/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Android/HelloWorld/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../conta/ContaPessoaFisica.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteIntArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/conta/ContaPessoaFisica.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Mentorias/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Mentorias/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lib/kotlin-reflect-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lib/kotlin-reflect.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lib/kotlin-stdlib-jdk7-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lib/kotlin-stdlib-jdk7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lib/kotlin-stdlib-jdk8-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lib/kotlin-stdlib-jdk8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lib/kotlin-stdlib-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lib/kotlin-stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lib/kotlin-test-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../lib/kotlin-test.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/BootcampSantanderMobile.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/BootcampSantanderMobile.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1xsYp0SnMjREK0K0j3wxBA3KQ08" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TesteIntArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteIntArrayKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TesteIntArrayKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -28,6 +189,35 @@
       <option name="presentableId" value="Default" />
       <updated>1631145444716</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criando o Projeto">
+      <created>1631145555004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631145555004</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Criando o Projeto" />
+    <MESSAGE value="Introdução ao desenvolvimento de arrays" />
+    <MESSAGE value="Criando pacote package one.digitalinnovation.collections e TesteIntArray.kt" />
+    <MESSAGE value="TesteIntArray.kt executando com sucesso" />
+    <MESSAGE value="TesteIntArray.kt -  No forEach o it realiza o papel da variavel valor executando com sucesso" />
+    <MESSAGE value="TesteIntArray.kt -  // For index realiza a iteração sobre os indices do arrays busca o valor da posição especifica&#10;                        for(index in values.indices){" />
+    <option name="LAST_COMMIT_MESSAGE" value="TesteIntArray.kt -  // For index realiza a iteração sobre os indices do arrays busca o valor da posição especifica&#10;                        for(index in values.indices){" />
   </component>
 </project>

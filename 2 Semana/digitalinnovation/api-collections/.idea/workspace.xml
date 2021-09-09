@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="TesteList.kt | extraindo data class Funcionario.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteSet.kt" afterDir="false" />
+    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="TesteSet.kt | union - gerando relatorio com todos os funcionarios.&#10;subtract - Subtraindo dos conjuntos.&#10;intersect - Busca resultado em comum nos conjuntos">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteMap.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +41,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.TesteSetKt">
-    <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteArrayStringKt" />
-      <module name="mainModule" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.TesteMapKt">
     <configuration name="TesteDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteDoubleArrayKt" />
       <module name="mainModule" />
@@ -58,6 +51,13 @@
     </configuration>
     <configuration name="TesteListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteListKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteMapKt" />
       <module name="mainModule" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteMapKt" />
         <item itemvalue="Kotlin.TesteSetKt" />
         <item itemvalue="Kotlin.TesteListKt" />
         <item itemvalue="Kotlin.TesteOperacoesKt" />
         <item itemvalue="Kotlin.TesteDoubleArrayKt" />
-        <item itemvalue="Kotlin.TesteArrayStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631200708995</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="TesteSet.kt | union - gerando relatorio com todos os funcionarios.&#10;subtract - Subtraindo dos conjuntos.&#10;intersect - Busca resultado em comum nos conjuntos">
+      <created>1631222434445</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1631222434445</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +213,7 @@
     <MESSAGE value="TesteList.kt | Organizando grupos com sortedBy &#10; funcionarios.sortedBy { it.salario } // Ordenando o objeto por salario do menor para o maior&#10;                       .forEach { println(it) } // finaliza todas as operações" />
     <MESSAGE value="TesteList.kt | groupBy Agrupando o objeto por tipo de contratação" />
     <MESSAGE value="TesteList.kt | extraindo data class Funcionario.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="TesteList.kt | extraindo data class Funcionario.kt" />
+    <MESSAGE value="TesteSet.kt | union - gerando relatorio com todos os funcionarios.&#10;subtract - Subtraindo dos conjuntos.&#10;intersect - Busca resultado em comum nos conjuntos" />
+    <option name="LAST_COMMIT_MESSAGE" value="TesteSet.kt | union - gerando relatorio com todos os funcionarios.&#10;subtract - Subtraindo dos conjuntos.&#10;intersect - Busca resultado em comum nos conjuntos" />
   </component>
 </project>

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="Repositorio.kt TesteMutavekMap.kt| &#10;Simulador de banco de dados execultando teste Map">
+    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="Repositorio.kt TesteMutavekMap.kt| &#10;Exibindo Todos os elementos gravados no mapa do banco de dados com findAll e realizando a remoção para completar o crud com remove">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/FuncoesEstendidas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteFuncoesEstendidas.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/Repositorio.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/Repositorio.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteMutavekMap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteMutavekMap.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.TesteMutavekMapKt">
+  <component name="RunManager" selected="Kotlin.TesteFuncoesEstendidasKt">
     <configuration name="TesteColecoesMutaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteColecoesMutaveisKt" />
       <module name="mainModule" />
@@ -50,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteListKt" />
+    <configuration name="TesteFuncoesEstendidasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteFuncoesEstendidasKt" />
       <module name="mainModule" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteFuncoesEstendidasKt" />
         <item itemvalue="Kotlin.TesteMutavekMapKt" />
         <item itemvalue="Kotlin.TesteColecoesMutaveisKt" />
         <item itemvalue="Kotlin.TesteMapKt" />
         <item itemvalue="Kotlin.TesteSetKt" />
-        <item itemvalue="Kotlin.TesteListKt" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631228414498</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Repositorio.kt TesteMutavekMap.kt| &#10;Exibindo Todos os elementos gravados no mapa do banco de dados com findAll e realizando a remoção para completar o crud com remove">
+      <created>1631230263679</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1631230263679</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,6 +246,7 @@
     <MESSAGE value="TesteMap.kt | Desenvolvimento com mapOf Utilizando o Pair MapOf e forEach" />
     <MESSAGE value="TesteColecoesMutaveis.kt| Apos a inicialização é possivel realizar alterações nela.&#10;-ADD&#10;-REMOVE&#10;-SEToF" />
     <MESSAGE value="Repositorio.kt TesteMutavekMap.kt| &#10;Simulador de banco de dados execultando teste Map" />
-    <option name="LAST_COMMIT_MESSAGE" value="Repositorio.kt TesteMutavekMap.kt| &#10;Simulador de banco de dados execultando teste Map" />
+    <MESSAGE value="Repositorio.kt TesteMutavekMap.kt| &#10;Exibindo Todos os elementos gravados no mapa do banco de dados com findAll e realizando a remoção para completar o crud com remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="Repositorio.kt TesteMutavekMap.kt| &#10;Exibindo Todos os elementos gravados no mapa do banco de dados com findAll e realizando a remoção para completar o crud com remove" />
   </component>
 </project>

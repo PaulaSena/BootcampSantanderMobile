@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="TesteIntArrayOf.kt | // Ese da a opcion de crear un array sin ter que pasar todas las instancias inmediatamente.&#10;//Lambda&#10;// Iterando ordenado con values.sort()">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteArrayString.kt" afterDir="false" />
+    <list default="true" id="fd05405f-4b41-481e-a733-cf29fc03cc79" name="Changes" comment="TesteArrayString.kt | // Ese da a opcion de crear un array Utilizando String &#10;//Lambda&#10;// Iterando ordenado con values.sort()">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TesteDoubleArray.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +39,16 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Kotlin.TesteArrayStringKt">
+  <component name="RunManager" selected="Kotlin.TesteDoubleArrayKt">
     <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteArrayStringKt" />
+      <module name="mainModule" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TesteDoubleArrayKt" />
       <module name="mainModule" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteDoubleArrayKt" />
         <item itemvalue="Kotlin.TesteArrayStringKt" />
         <item itemvalue="Kotlin.TesteIntArrayOfKt" />
         <item itemvalue="Kotlin.TesteIntArrayKt" />
@@ -99,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631152408472</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TesteArrayString.kt | // Ese da a opcion de crear un array Utilizando String &#10;//Lambda&#10;// Iterando ordenado con values.sort()">
+      <created>1631153522694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631153522694</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +138,7 @@
     <MESSAGE value="TesteIntArray.kt -  // For index realiza a iteração sobre os indices do arrays busca o valor da posição especifica&#10;                        for(index in values.indices){" />
     <MESSAGE value="TesteIntArray.kt - // values.sort() for(valor in values){  realiza a iteração do menor para o maior antes de realizar a impressao atraves do recurso sort()" />
     <MESSAGE value="TesteIntArrayOf.kt | // Ese da a opcion de crear un array sin ter que pasar todas las instancias inmediatamente.&#10;//Lambda&#10;// Iterando ordenado con values.sort()" />
-    <option name="LAST_COMMIT_MESSAGE" value="TesteIntArrayOf.kt | // Ese da a opcion de crear un array sin ter que pasar todas las instancias inmediatamente.&#10;//Lambda&#10;// Iterando ordenado con values.sort()" />
+    <MESSAGE value="TesteArrayString.kt | // Ese da a opcion de crear un array Utilizando String &#10;//Lambda&#10;// Iterando ordenado con values.sort()" />
+    <option name="LAST_COMMIT_MESSAGE" value="TesteArrayString.kt | // Ese da a opcion de crear un array Utilizando String &#10;//Lambda&#10;// Iterando ordenado con values.sort()" />
   </component>
 </project>
